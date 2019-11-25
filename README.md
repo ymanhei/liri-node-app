@@ -28,6 +28,14 @@ Time: December 30th 2019, 8:00:00 pm
 -Include screenshots, gifs or videos of the app functioning
 
 -Contain a link to a deployed version of the app
+https://ymanhei.github.io/liri-node-app/
 
-Clearly list the technologies used in the app
-State your role in the app development
+-Clearly list the technologies used in the app
+Node-Spotify-API
+Axios
+Moment
+DotEnv
+
+
+-State your role in the app development
+Developer
